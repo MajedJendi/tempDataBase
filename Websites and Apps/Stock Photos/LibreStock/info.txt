@@ -1,0 +1,8 @@
+{
+	"name" : "LibreStock",
+    "description" : " ",
+    "shortDescription" : " ",
+    "Likes" : "0",
+    "URL" : "https://librestock.com/",
+    "Labels" : ["Marketing"]
+}

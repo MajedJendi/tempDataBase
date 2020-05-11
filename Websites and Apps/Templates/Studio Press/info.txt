@@ -1,0 +1,8 @@
+{
+	"name" : "Studio Press",
+    "description" : " ",
+    "shortDescription" : " ",
+    "Likes" : "0",
+    "URL" : "https://www.studiopress.com/?sscid=51k4_bdoo5",
+    "Labels" : ["Marketing"]
+}

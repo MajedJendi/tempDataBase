@@ -1,0 +1,8 @@
+{
+	"name" : "StockPhotos.io",
+    "description" : " ",
+    "shortDescription" : " ",
+    "Likes" : "0",
+    "URL" : "https://stockphotos.io/",
+    "Labels" : ["Marketing"]
+}
