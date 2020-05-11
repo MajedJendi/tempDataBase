@@ -1,0 +1,8 @@
+{
+	"name" : "Revue",
+    "description" : " ",
+    "shortDescription" : " ",
+    "Likes" : "0",
+    "URL" : "https://www.getrevue.co/",
+    "Labels" : ["Marketing"]
+}

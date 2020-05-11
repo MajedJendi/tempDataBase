@@ -1,0 +1,8 @@
+{
+	"name" : "Goodbits",
+    "description" : " ",
+    "shortDescription" : " ",
+    "Likes" : "0",
+    "URL" : "https://goodbits.io/",
+    "Labels" : ["Marketing"]
+}
