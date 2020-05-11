@@ -1,0 +1,8 @@
+{
+	"name" : "#saashacker",
+    "description" : "#saashacker is a weekly, actionable SaaS marketing case study, sent by email. They cover the growth tactics from companies like Moz, Mailchimp, and Hubspot, in a fun and analytical style (yep, those two things do go togethe. Take the ideas and use them in your growth strategies. For free.",
+    "shortDescription" : "#saashacker is a weekly, actionable SaaS marketing case study, sent by email….",
+    "Likes" : "10",
+    "URL" : "https://saashacker.co",
+    "Labels" : ["Marketing"]
+}
