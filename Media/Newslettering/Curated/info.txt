@@ -1,0 +1,8 @@
+{
+	"name" : "Curated",
+    "description" : " ",
+    "shortDescription" : " ",
+    "Likes" : "0",
+    "URL" : "https://curated.co/",
+    "Labels" : ["Marketing"]
+}
