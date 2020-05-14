@@ -1,0 +1,8 @@
+{
+	"name" : "Carrd",
+    "description" : "Long Description",
+    "shortDescription" : "Short Description",
+    "Likes" : "0",
+    "URL" : "https://carrd.co/",
+    "Labels" : ["Marketing"]
+}
