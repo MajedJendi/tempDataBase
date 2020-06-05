@@ -1,0 +1,8 @@
+{
+	"name" : "squadhelp",
+    "description" : "Long Description",
+    "shortDescription" : "Short Description",
+    "Likes" : "0",
+    "URL" : "https://www.squadhelp.com/",
+    "Labels" : ["Marketing"]
+}

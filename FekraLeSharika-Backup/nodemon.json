@@ -1,0 +1,13 @@
+{
+	"env": {
+		"verbose" : true,
+		"MongoDBPass": "01230123098",
+		"JWT_KEY": "secret",
+		"ignore": ["node_modules", ".next"],
+		"watch": ["testingRESTfulAPI/**/*", "server2.js"],
+		"ext": "js json"
+		
+	}
+
+
+}

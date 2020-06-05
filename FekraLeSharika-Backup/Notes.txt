@@ -1,0 +1,25 @@
+
+- Zeit
+	* fast way to deploy your code into an actual website
+	* gives you a new url everytime you change your code
+	
+- Next
+	* Renders JS pages to the browser
+
+- Pre-rendoring
+  * Cant have the page as a child process, need to log to it directly from the URL
+	
+- Need to have loaders for webpack
+
+
+
+ "babel": {
+    "presets": [
+      "react",
+      "es2015",
+      "@babel/env"
+    ],
+    "plugins": [
+      "transform-es2015-modules-commonjs"
+    ]
+  }

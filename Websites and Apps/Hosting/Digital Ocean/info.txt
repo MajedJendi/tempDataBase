@@ -1,0 +1,8 @@
+{
+	"name" : "Digital Ocean",
+    "description" : "Long Description",
+    "shortDescription" : "Short Description",
+    "Likes" : "0",
+    "URL" : "https://www.digitalocean.com/",
+    "Labels" : ["Marketing"]
+}

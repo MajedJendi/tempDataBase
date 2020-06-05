@@ -1,0 +1,53 @@
+**** Current problem ****
+	- Geofire cant be used, not being initialized properly
+
+
+Bite size decision:
+	- Displaying parking spots on the map
+	- Displaying parking queries in constant feed or in pages
+
+Priority:
+- Add user information edit
+- Email confirmation upon registration
+ 	- verification not sent to majed.jendi@gmail.com
+ 	- Even after verification it doesnt allow me to sign in
+ 		- Check the verification field in the user vs printing whats actually being returned
+- Ability to add photoes after registration
+
+
+- ADD: only the user related to these orders specific orders can access them
+- Learn to add the availability to users
+- Learn how to incroprate the Venmo API
+- Plaid to link to the bank account
+- should add PayPal maybe as an option to receive payments
+
+
+Problems to be solved:
+1- handling non existent routes to the website
+2- Add phone number validation (+1 206-.. etc)
+3- Signup compnonent shouldnt show red stuff when the page opens as first
+4- After failing to login the submit button should work again without having to
+	refresh the page
+5- The signup button should all have a consistant color and
+   should all be clickable
+6- Verification email is sometimes sent to the promotions section
+7- Logging in right after signup shows that the user doesnt exist, probably need
+	to refresh the page or something
+8- Is there a cleaner way of not having that many catch blocks in signup?
+9- Need to check which routes need to be directly connected, like emailSignUp page etc.
+   
+6- How to print the res error, the message assigned in the backend?
+7- How to make the progress bar disapear at the beginning and they show up, disapearing at the end is figured out
+8- Make the the name of the file apear on the box it self as well
+
+
+Questions to Sami:
+	Host registration
+		- Any comments on it?
+	Technical:
+		- Should I allow to users to signup with the same phone numbers?
+		- Should I trust the firebase hashing?
+		
+		
+
+Notes:
