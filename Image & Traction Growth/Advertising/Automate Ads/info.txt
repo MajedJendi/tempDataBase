@@ -3,5 +3,5 @@
     "description" : "The description",
     "shortDescription" : "Short description...",
     "Likes" : "1",
-    "URL" : "https://tryadhawk.com/automate-ads/",
+    "URL" : "https://tryadhawk.com/automate-ads/"
 }
