@@ -1,7 +1,0 @@
-{
-    "name" : "Veeroll",
-    "description" : "The description",
-    "shortDescription" : "Short description...",
-    "Likes" : "1",
-    "URL" : "https://veeroll.com/"
-}
