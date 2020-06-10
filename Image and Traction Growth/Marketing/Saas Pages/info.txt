@@ -1,0 +1,8 @@
+{
+	"name" : "Saas-Pages",
+    "description" : "Browse 900+ landing page screenshots. We give you the best practices to help you convert more visitors to customers.",
+    "shortDescription" : "Browse 900+ landing page screenshots. We give you the best practices to…",
+    "Likes" : "10",
+    "URL" : "https://www.acquia.com/products-services/mautic",
+    "Labels" : ["Marketing"]
+}
