@@ -2,9 +2,12 @@ import { container, title } from "../../material-kit-react.js";
 
 const pillsStyle = {
   section: {
-    padding: "50px 80px 200px 0px"
+    padding: "-100px",
   },
-  container,
+  container: {
+    marginRight: "200px"
+
+  },
   title: {
     ...title,
     marginLeft: "25px",

@@ -1,0 +1,7 @@
+{
+    "name" : "Referral Saasquatch",
+    "description" : "The description",
+    "shortDescription" : "Short description...",
+    "Likes" : "1",
+    "URL" : "https://www.referralsaasquatch.com/",
+}

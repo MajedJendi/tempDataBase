@@ -62,14 +62,15 @@ const classes = makeStyles((theme) => ({
   },
 }));
   
-const aws_access_key_id = "AKIA6BGTFVX3EAMMACWL";
-const aws_secret_access_key = "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";
+const aws_access_key_id = "AKIAJ75XCMI5V4JBEOAA";
+const aws_secret_access_key = "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";
 var AWS = require('aws-sdk');
 AWS.config.update({region : 'us-east-2', accessKeyId: aws_access_key_id, secretAccessKey: aws_secret_access_key});
 var s3 = new AWS.S3();
 
 
 let location;
+
 
 
 export default class Page extends React.Component {
@@ -79,18 +80,18 @@ export default class Page extends React.Component {
       var cards = [];
  
        // ----Uncomment here for static testing-----
-      // var Paved = {
-      //     "name" : "Paved", "description" : "Email marketing and sponsored content, simplified. Find newsletters with subscriber profiles that fit your needs, and advertise with them.",
-      //     "shortDescription" : "Email marketing and sponsored content, simplified. Find newsletters with subscriber profiles that…",
-      //     "Likes" : "1",
-      //     "imgURL" : "https://y2u.be/img/why_y2ube_v2.png",
-      //     "URL" : "https://www.paved.com"
-      // }
-      // cards[0] = Paved;
-      // cards[1] = Paved;
-      // cards[2] = Paved;
-      // cards[3] = Paved;
-      // cards[4] = Paved;
+      var Paved = {
+          "name" : "Paved", "description" : "Email marketing and sponsored content, simplified. Find newsletters with subscriber profiles that fit your needs, and advertise with them.",
+          "shortDescription" : "Email marketing and sponsored content, simplified. Find newsletters with subscriber profiles that…",
+          "Likes" : "1",
+          "imgURL" : "https://y2u.be/img/why_y2ube_v2.png",
+          "URL" : "https://www.paved.com"
+      }
+      cards[0] = Paved;
+      cards[1] = Paved;
+      cards[2] = Paved;
+      cards[3] = Paved;
+      cards[4] = Paved;
 
       var index = 0;
       var infoJson;

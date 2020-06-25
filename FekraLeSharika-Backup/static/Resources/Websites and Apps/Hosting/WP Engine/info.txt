@@ -1,0 +1,8 @@
+{
+	"name" : "WP Engine",
+    "description" : "Long Description",
+    "shortDescription" : "Short Description",
+    "Likes" : "0",
+    "URL" : "https://wpengine.com/plans/",
+    "Labels" : ["Marketing"]
+}

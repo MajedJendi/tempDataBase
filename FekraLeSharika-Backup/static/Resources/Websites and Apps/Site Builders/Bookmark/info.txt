@@ -1,0 +1,8 @@
+{
+	"name" : "Bookmark",
+    "description" : "Long Description",
+    "shortDescription" : "Short Description",
+    "Likes" : "0",
+    "URL" : "https://www.bookmark.com/",
+    "Labels" : ["Marketing"]
+}

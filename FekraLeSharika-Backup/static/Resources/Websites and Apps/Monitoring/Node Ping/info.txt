@@ -1,0 +1,8 @@
+{
+	"name" : "Node Ping",
+    "description" : "Long Description",
+    "shortDescription" : "Short Description",
+    "Likes" : "0",
+    "URL" : "https://nodeping.com/",
+    "Labels" : ["Marketing"]
+}

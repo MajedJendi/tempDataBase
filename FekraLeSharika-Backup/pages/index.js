@@ -1,26 +1,16 @@
 import '../styles/stylesheet.scss'
 import '../styles/utility.scss'
 import Head from '../components/head'
-import Hero from '../components/hero'
-import NavBar from '../components/navbar'
-import Footer from '../components/footer'
 import Link from 'next/link'
-import Signup from "../components/signup";
-import Marketing from "./marketing";
-import ExpBar from "../components/expBar";
-// import LandingPage from "../components/LandingPage";
-import SectionPills from "../components/SectionPills";
-// <Hero />
+import LandingPage from "../components/LandingPage";
+import Resources from "../components/Resources";
 
 
 const Index = () => (
   <div>
     <Head title="Shadow - Experience what it's really like to be a college student" />
-
-
-    <Link href={{ pathname: '/page', query: { category: 'Websites and Apps', subcategory: '/Hosting'} }}><a>Websites and Apps</a></Link>
-
-    <SectionPills />
+    
+    <LandingPage />
    </div>
 )
 

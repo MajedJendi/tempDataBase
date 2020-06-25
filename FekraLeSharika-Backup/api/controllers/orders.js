@@ -1,6 +1,5 @@
 const Order = require('../models/order');
 const Product = require('../models/product');
-const mongoose = require('mongoose');
 
 //exports.WhateverFieldNameYouWish
 exports.orders_get_all = (req, res, next) => {

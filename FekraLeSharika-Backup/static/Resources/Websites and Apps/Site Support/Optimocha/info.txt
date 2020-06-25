@@ -1,0 +1,8 @@
+{
+	"name" : "Optimocha",
+    "description" : "Long Description",
+    "shortDescription" : "Short Description",
+    "Likes" : "0",
+    "URL" : "https://optimocha.com/",
+    "Labels" : ["Marketing"]
+}

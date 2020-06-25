@@ -1,0 +1,8 @@
+{
+	"name" : "Flash Issue",
+    "description" : " ",
+    "shortDescription" : " ",
+    "Likes" : "0",
+    "URL" : "https://www.flashissue.com/",
+    "Labels" : ["Marketing"]
+}

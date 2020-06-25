@@ -17,6 +17,9 @@ import HeaderLinks from "./HeaderLinks.js";
 import Parallax from "./Parallax.js";
 
 import styles from "../styles/material-kit-react/views/landingPage.js";
+import SectionTabs from "../components/SectionTabs";
+import Hero from "../components/hero";
+
 
 // Sections for this page
 
@@ -48,32 +51,71 @@ export default function LandingPage(props) {
       <Parallax filter image={require("../static/LandingPage/landing-bg.png")}>
         <div className={classes.container}>
           <GridContainer>
-            <GridItem xs={12} sm={12} md={6}>
-              <h1 className={classes.title}>Your Story Starts With Us.</h1>
-              <h4>
-                Every landing page needs a small description after the big bold
-                title, that{"'"}s why we added this text here. Add here all the
-                information that can make you or your product create the first
-                impression.
-              </h4>
+            <GridItem xs={12} sm={12} md={12}>
               <br />
-              <Button
-                color="danger"
-                size="lg"
-                href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ref=creativetim"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <i className="fas fa-play" />
-                Watch video
-              </Button>
+
+              <div className = "columns is-centered">
+                <div className  = "column">
+                  <div className ="columns">
+                    <p className ="title is-1 has-text-white">The World Needs More Startup Creators</p>
+                  </div>
+                  <br />
+                  <div className ="columns">
+                    <p className ="title is-3 has-text-white">BE ONE</p>
+                  </div>
+
+                  <br />
+                  <br />
+
+                  <div className ="columns">
+                    <Button
+                      color="danger"
+                      size="lg"
+                      href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ref=creativetim"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="fas fa-play" />
+                      Watch video
+                    </Button>
+                  </div>
+
+                </div>
+                
+                <div className = "column">
+
+                    <div className ="columns is-centered">
+                        <figure className ="image is-64x64 is-vcentered">
+                            <img className ="img" src="../static/FlatIcons/Hero/money.png"></img>
+                        </figure> 
+                    </div>
+
+                    <br />
+
+                    <div className ="columns is-centered">
+                        <figure className ="image is-32x32 is-vcentered">
+                            <img className ="img" src="../static/FlatIcons/Hero/more.png"></img>
+                        </figure> 
+                    </div>
+
+                    <br />
+                    <div className ="columns is-centered">
+                        <figure className ="image is-128x128 is-vcentered">
+                            <img className ="img" src="../static/FlatIcons/Hero/startup.png"></img>
+                        </figure> 
+                    </div>
+
+                </div>
+              </div>
+
+
             </GridItem>
           </GridContainer>
         </div>
       </Parallax>
       <div className={classNames(classes.main, classes.mainRaised)}>
         <div className={classes.container}>
-            <SectionPills />
+            <SectionTabs />
         </div>
       </div>
       <Footer />
@@ -82,6 +124,11 @@ export default function LandingPage(props) {
 }
 
 
-{/* <ProductSection />
-<TeamSection />
-<WorkSection /> */}
+{/* <div className ="columns is-centered">
+<figure className ="image is-64x64 is-vcentered">
+    <img className ="img" src="../static/FlatIcons/Hero/idea2.png"></img>
+</figure> 
+</div> */}
+
+
+

@@ -1,0 +1,8 @@
+{
+	"name" : "Neatly",
+    "description" : "Long Description",
+    "shortDescription" : "Short Description",
+    "Likes" : "0",
+    "URL" : "https://neatly.io/",
+    "Labels" : ["Marketing"]
+}

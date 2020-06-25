@@ -18,6 +18,10 @@ import ImageAndTractionGrowthSubs from "./ImageAndTractionGrowthSubs";
 const useStyles = makeStyles(styles);
 
 
+// <p className={classes.textCenter}>
+
+// </p>
+
 
 export default function SectionPills() {
   const classes = useStyles();
@@ -28,7 +32,7 @@ export default function SectionPills() {
       <div className={classes.container}>
         <div id="navigation-pills">
           <div className={classes.title}>
-            <h3>Navigation Pills {windowGlobal.innerHeight} fsa</h3>
+            <h3>Navigation Pills {windowGlobal.innerHeight} </h3>
           </div>
           <div className={classes.title}>
             <h3>
@@ -36,14 +40,15 @@ export default function SectionPills() {
             </h3>
           </div>
           <GridContainer>
-            <GridItem xs={"auto"} sm={"auto"} md={"auto"} lg={12}>
+            <GridItem xs={12} sm={12} md={8} lg={12}>
               <NavPills
                 color="primary"
                 tabs={[
                   {
                     tabButton: "Financial",
                     tabIcon: Dashboard,
-                    tabContent: (                        
+                    tabContent: (
+                                                
                         <FinancialSubs />
                     )
                   },
