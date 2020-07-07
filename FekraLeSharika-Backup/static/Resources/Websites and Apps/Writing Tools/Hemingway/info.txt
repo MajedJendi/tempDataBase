@@ -1,0 +1,8 @@
+{
+	"name" : "Hemingway",
+    "description" : " ",
+    "shortDescription" : " ",
+    "Likes" : "0",
+    "URL" : "https://hemingwayapp.com/",
+    "Labels" : ["Marketing"]
+}

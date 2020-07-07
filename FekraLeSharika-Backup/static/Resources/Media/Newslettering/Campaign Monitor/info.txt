@@ -1,0 +1,8 @@
+{
+	"name" : "Campaign Monitor",
+    "description" : " ",
+    "shortDescription" : " ",
+    "Likes" : "0",
+    "URL" : "https://www.campaignmonitor.com/",
+    "Labels" : ["Marketing"]
+}

@@ -1,0 +1,8 @@
+{
+	"name" : "Bubble",
+    "description" : "Long Description",
+    "shortDescription" : "Short Description",
+    "Likes" : "0",
+    "URL" : "https://bubble.io/",
+    "Labels" : ["Marketing"]
+}

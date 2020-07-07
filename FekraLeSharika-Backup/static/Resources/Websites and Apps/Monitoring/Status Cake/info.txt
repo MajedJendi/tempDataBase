@@ -1,0 +1,8 @@
+{
+	"name" : "Status Cake",
+    "description" : "Long Description",
+    "shortDescription" : "Short Description",
+    "Likes" : "0",
+    "URL" : "https://statuscake.com/",
+    "Labels" : ["Monitoring"]
+}

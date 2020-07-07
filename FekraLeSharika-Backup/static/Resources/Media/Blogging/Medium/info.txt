@@ -1,0 +1,8 @@
+{
+	"name" : "Medium",
+    "description" : " ",
+    "shortDescription" : " ",
+    "Likes" : "10",
+    "URL" : "https://medium.com/",
+    "Labels" : ["Marketing"]
+}

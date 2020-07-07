@@ -1,0 +1,8 @@
+{
+	"name" : "Designmodo",
+    "description" : "Long Description",
+    "shortDescription" : "Short Description",
+    "Likes" : "0",
+    "URL" : "https://designmodo.com/",
+    "Labels" : ["Marketing"]
+}

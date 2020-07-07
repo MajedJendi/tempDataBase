@@ -1,0 +1,92 @@
+
+
+
+@charset "utf-8";
+
+// Import a Google Font
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
+// Set your brand colors
+$purple: #8A4D76;
+$pink: #FA7C91;
+$brown: #757763;
+$beige-light: #D0D1CD;
+$beige-lighter: #EFF0EB;
+$black: black;
+
+// Update Bulma's global variables
+$family-sans-serif: "Nunito", sans-serif;
+$grey-dark: $brown;
+$grey-light: $beige-light;
+$primary: $purple;
+$link: black;
+
+
+
+// Import only what you need from Bulma
+@import "../node_modules/bulma/sass/utilities/_all.sass";
+@import "../node_modules/bulma/sass/base/_all.sass";
+@import "../node_modules/bulma/sass/elements/button.sass";
+@import "../node_modules/bulma/sass/elements/container.sass";
+@import "../node_modules/bulma/sass/elements/title.sass";
+@import "../node_modules/bulma/sass/components/navbar.sass";
+@import "../node_modules/bulma/sass/layout/hero.sass";
+@import "../node_modules/bulma/sass/layout/section.sass";
+
+
+a.First {
+    height: min-content;
+    background-color:white;
+    box-shadow: 0 1px 20px rgb(192,192,192);
+
+    border-radius: 20px;
+    padding: 20px;
+    color:black;
+    &:hover {
+        background-color:white;
+        box-shadow: 0 1px 20px rgb(51,153,255);
+        transition: box-shadow 0.35s ease-in-out;
+      color:  black;
+    }
+    &:active {
+      color: #B25500;
+    }
+}
+
+a.Second {
+    height: min-content;
+    background-color:white;
+    box-shadow: 0 1px 20px rgb(192,192,192);
+
+    color: black;
+    background-color:white;
+    border-radius: 20px;
+    padding: 20px;
+
+    &:hover {
+        box-shadow: 0 1px 20px rgb(51,153,255);
+        transition: box-shadow 0.35s ease-in-out;
+      color:  black;
+    }
+    &:active {
+      color: #B25500;
+    }
+}
+
+a.Third {
+    height: min-content;
+    background-color:white;
+    box-shadow: 0 1px 20px rgb(192,192,192);
+
+    border-radius: 20px;
+    padding: 20px;
+    color:black;
+    &:hover {
+        box-shadow: 0 1px 20px rgb(51,153,255);
+        transition: box-shadow 0.35s ease-in-out;
+      color:  black;
+    }
+    &:active {
+      color: #B25500;
+    }
+}

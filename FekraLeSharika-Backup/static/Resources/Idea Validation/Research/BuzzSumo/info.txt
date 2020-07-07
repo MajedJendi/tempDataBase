@@ -1,0 +1,7 @@
+{
+    "name" : "BuzzSumo",
+    "description" : "The description",
+    "shortDescription" : "Short description...",
+    "Likes" : "1",
+    "URL" : "https://buzzsumo.com/",
+}

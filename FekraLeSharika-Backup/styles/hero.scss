@@ -1,0 +1,30 @@
+// Styles for the Landing Hero
+
+// @charset "utf-8";
+// @import "../node_modules/bulma/bulma.sass";
+
+.hero-img {
+  height: 400px;
+}
+
+
+.hero {
+	height: 1300px;
+
+	// background-image: url("/static/lightBulb.jpeg");
+  	background-image: url("https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	background-position: center right;
+	background-repeat:  no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+	.hero-body.columns {
+	  -webkit-box-align: center;
+	     -ms-flex-align: center;
+	        align-items: center;
+	
+	}
+
+}
+
+

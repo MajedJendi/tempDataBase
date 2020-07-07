@@ -1,0 +1,8 @@
+{
+	"name" : "Ro vs Wild",
+    "description" : "Long Description",
+    "shortDescription" : "Short Description",
+    "Likes" : "0",
+    "URL" : "https://www.rorvswild.com/",
+    "Labels" : ["Marketing"]
+}

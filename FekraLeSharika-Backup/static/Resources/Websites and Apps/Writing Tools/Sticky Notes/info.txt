@@ -1,0 +1,8 @@
+{
+	"name" : "Sticky Notes",
+    "description" : " ",
+    "shortDescription" : " ",
+    "Likes" : "0",
+    "URL" : "https://chrome.google.com/webstore/detail/sticky-notes-just-popped/plpdjbappofmfbgdmhoaabefbobddchk/reviews",
+    "Labels" : ["Marketing"]
+}
