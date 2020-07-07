@@ -1,8 +1,0 @@
-{
-	"name" : "Rackspace",
-    "description" : "Long Description",
-    "shortDescription" : "Short Description",
-    "Likes" : "0",
-    "URL" : "https://www.rackspace.com/",
-    "Labels" : ["Marketing"]
-}

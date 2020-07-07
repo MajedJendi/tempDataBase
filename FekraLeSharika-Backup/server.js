@@ -10,7 +10,6 @@ const handle = app.getRequestHandler();
 
 const morgan = require('morgan');
 const bodyParser = require('body-parser');
-const mongoose = require('mongoose');
 const ReactDOMServer = require('react-dom');
 const { parse } = require('querystring');
 
@@ -20,14 +19,7 @@ app
 	.prepare()
 	.then( () => {
 		const server = express();
-		const productRoutes = require('./api/routes/products');
-		const orderRoutes = require('./api/routes/orders');
-		const userRoutes = require('./api/routes/users');
-		const photosRoutes = require('./api/routes/photos');
-
-
-
-				
+		const userRoutes = require('./api/routes/users');				
 		server.listen(PORT, err => {
 			if(err) throw err;
 			console.log('> Ready on ${PORT}');
@@ -35,7 +27,7 @@ app
 		
 		
 
-		mongoose.connect('mongodb+srv://jendi:01230123098@cluster0-mmqyi.mongodb.net/test?retryWrites=true&w=majority',  { useNewUrlParser: true } );
+		// mongoose.connect('mongodb+srv://jendi:01230123098@cluster0-mmqyi.mongodb.net/test?retryWrites=true&w=majority',  { useNewUrlParser: true } );
 
 		//mongoose.Promise = global.Promise;
 
@@ -77,10 +69,8 @@ app
 		// server.set('view engine', 'js');
 		// server.engine('js', require('express-react-views').createEngine());
 
-		server.use("/products", productRoutes);
-		server.use('/orders', orderRoutes);
+
 		server.use('/users', userRoutes);
-		server.use('/photos', photosRoutes);
 
 
 		// To be removed

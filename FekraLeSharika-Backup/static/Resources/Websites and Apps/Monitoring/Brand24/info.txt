@@ -1,8 +1,0 @@
-{
-	"name" : "Brand24",
-    "description" : "Long Description",
-    "shortDescription" : "Short Description",
-    "Likes" : "0",
-    "URL" : "https://brand24.com/",
-    "Labels" : ["Marketing"]
-}

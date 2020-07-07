@@ -1,8 +1,0 @@
-{
-	"name" : "bluehost",
-    "description" : "Long Description",
-    "shortDescription" : "Short Description",
-    "Likes" : "0",
-    "URL" : "https://www.bluehost.com/",
-    "Labels" : ["Marketing"]
-}

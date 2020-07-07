@@ -1,8 +1,0 @@
-{
-	"name" : "Gridbox",
-    "description" : "Long Description",
-    "shortDescription" : "Short Description",
-    "Likes" : "0",
-    "URL" : "https://www.gridbox.io/",
-    "Labels" : ["Marketing"]
-}

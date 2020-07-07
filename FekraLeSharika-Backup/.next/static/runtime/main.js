@@ -5860,7 +5860,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      source_map_support_1.rewriteStacktrace(error, "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\.next");
+      source_map_support_1.rewriteStacktrace(error, "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\.next");
       return error;
     }
   };

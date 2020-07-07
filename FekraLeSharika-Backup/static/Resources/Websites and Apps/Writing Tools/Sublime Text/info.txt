@@ -1,8 +1,0 @@
-{
-	"name" : "Sublime Text",
-    "description" : " ",
-    "shortDescription" : " ",
-    "Likes" : "0",
-    "URL" : "https://www.sublimetext.com/",
-    "Labels" : ["Marketing"]
-}

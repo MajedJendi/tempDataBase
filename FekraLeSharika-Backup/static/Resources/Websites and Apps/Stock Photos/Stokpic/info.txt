@@ -1,8 +1,0 @@
-{
-	"name" : "Stokpic",
-    "description" : " ",
-    "shortDescription" : " ",
-    "Likes" : "0",
-    "URL" : "https://stokpic.com/",
-    "Labels" : ["Marketing"]
-}

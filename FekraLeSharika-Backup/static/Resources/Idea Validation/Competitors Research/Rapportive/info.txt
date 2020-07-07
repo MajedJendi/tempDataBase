@@ -1,7 +1,0 @@
-{
-    "name" : "Rapportive",
-    "description" : "The description",
-    "shortDescription" : "Short description...",
-    "Likes" : "1",
-    "URL" : "https://business.linkedin.com/sales-solutions",
-}

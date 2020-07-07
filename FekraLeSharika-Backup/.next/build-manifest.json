@@ -22,10 +22,6 @@
       "static/css/static/development/pages/index.js.chunk.css",
       "static/css/static/development/pages/index.js.chunk.css",
       "static/runtime/main.js"
-    ],
-    "/next/dist/pages/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
     ]
   }
 }

@@ -1,8 +1,0 @@
-{
-	"name" : "TinyLetter",
-    "description" : " ",
-    "shortDescription" : " ",
-    "Likes" : "0",
-    "URL" : "https://tinyletter.com/",
-    "Labels" : ["Marketing"]
-}

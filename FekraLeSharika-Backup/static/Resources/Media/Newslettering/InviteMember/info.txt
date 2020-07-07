@@ -1,8 +1,0 @@
-{
-	"name" : "InviteMember",
-    "description" : " ",
-    "shortDescription" : " ",
-    "Likes" : "0",
-    "URL" : "https://invitemember.com/",
-    "Labels" : ["Marketing"]
-}

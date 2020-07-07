@@ -39,6 +39,7 @@ Problems to be solved:
 6- How to print the res error, the message assigned in the backend?
 7- How to make the progress bar disapear at the beginning and they show up, disapearing at the end is figured out
 8- Make the the name of the file apear on the box it self as well
+9- Once a click is done, a loading image needs to be placed
 
 
 Questions to Sami:

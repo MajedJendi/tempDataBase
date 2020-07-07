@@ -1,8 +1,0 @@
-{
-	"name" : "Monitis",
-    "description" : "Long Description",
-    "shortDescription" : "Short Description",
-    "Likes" : "0",
-    "URL" : "https://www.monitis.com/",
-    "Labels" : ["Marketing"]
-}

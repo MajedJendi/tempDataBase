@@ -1,8 +1,0 @@
-{
-	"name" : "Giggrabbers",
-    "description" : " ",
-    "shortDescription" : " ",
-    "Likes" : "10",
-    "URL" : "https://www.giggrabbers.com/",
-    "Labels" : ["Marketing"]
-}

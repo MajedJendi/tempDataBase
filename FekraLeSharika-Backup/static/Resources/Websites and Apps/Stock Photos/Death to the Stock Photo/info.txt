@@ -1,8 +1,0 @@
-{
-	"name" : "Death to the Stock Photo",
-    "description" : " ",
-    "shortDescription" : " ",
-    "Likes" : "0",
-    "URL" : "https://deathtothestockphoto.com/",
-    "Labels" : ["Marketing"]
-}

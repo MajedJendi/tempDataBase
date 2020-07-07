@@ -1,8 +1,0 @@
-{
-	"name" : "Orson",
-    "description" : "Long Description",
-    "shortDescription" : "Short Description",
-    "Likes" : "0",
-    "URL" : "https://en.orson.io/",
-    "Labels" : ["Marketing"]
-}

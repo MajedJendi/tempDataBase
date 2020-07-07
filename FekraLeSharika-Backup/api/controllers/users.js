@@ -1,5 +1,3 @@
-const User = require('../models/user');
-const passport = require('passport');
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 const { parse } = require('querystring');
@@ -25,68 +23,68 @@ var AWS = require('aws-sdk');
 AWS.config.update({region : 'us-east-2', accessKeyId: aws_access_key_id, secretAccessKey: aws_secret_access_key})
 
 
- exports.get_specific_user = (req, res, next) => {
-	 	console.log
-		const id = req.params.userId;
-		User.findById(id)
-			.select('email _id')
-			.exec()
-			.then(doc => {
-				console.log()
-				if(doc) {
-					res.status(200).json({
-						user: doc,
-						request: {
-							type: 'GET',
-							message: 'GET all products here',
-							url: 'http://localhost:3000/products/'
-						}
-					});
-				}
-			})
-			.catch(err => {
-				console.log(err)
-				res.status(500).json({error: err});
-			});
-	}
+//  exports.get_specific_user = (req, res, next) => {
+// 	 	console.log
+// 		const id = req.params.userId;
+// 		User.findById(id)
+// 			.select('email _id')
+// 			.exec()
+// 			.then(doc => {
+// 				console.log()
+// 				if(doc) {
+// 					res.status(200).json({
+// 						user: doc,
+// 						request: {
+// 							type: 'GET',
+// 							message: 'GET all products here',
+// 							url: 'http://localhost:3000/products/'
+// 						}
+// 					});
+// 				}
+// 			})
+// 			.catch(err => {
+// 				console.log(err)
+// 				res.status(500).json({error: err});
+// 			});
+// 	}
 
  
  
  
- exports.get_all_users = (req, res, next) => {
+//  exports.get_all_users = (req, res, next) => {
 	 
-	console.log('at Users conroller');
+// 	console.log('at Users conroller');
 
-	User.find()
-		.select('email _id password')// specifying what data exactly you want to see about a product
-		.exec()
-		.then(docs => {
-			const response = {
-				count: docs.length,
-				users: docs.map(doc => {
-					return {
-						//name: doc.name,
-						email: doc.email,
-						_id: doc._id,
-						password: doc.password,
-						request: {
-							type: 'GET',
-							url: 'http://localhost:3000/users/' + doc._id
-						}
-					};
-				})
-			};
-			res.status(200).json(response);
-		})
-		.catch(err => {
-			console.log(err)
-			res.status(500).json({error: err});
-		});
+// 	User.find()
+// 		.select('email _id password')// specifying what data exactly you want to see about a product
+// 		.exec()
+// 		.then(docs => {
+// 			const response = {
+// 				count: docs.length,
+// 				users: docs.map(doc => {
+// 					return {
+// 						//name: doc.name,
+// 						email: doc.email,
+// 						_id: doc._id,
+// 						password: doc.password,
+// 						request: {
+// 							type: 'GET',
+// 							url: 'http://localhost:3000/users/' + doc._id
+// 						}
+// 					};
+// 				})
+// 			};
+// 			res.status(200).json(response);
+// 		})
+// 		.catch(err => {
+// 			console.log(err)
+// 			res.status(500).json({error: err});
+// 		});
  
- }
+//  }
 
  
- exports.user_logout = (req, res, next) => {
+exports.user_logout = (req, res, next) => {
 
 	console.log("*******Here at logout");
 	return res.status(200).json({

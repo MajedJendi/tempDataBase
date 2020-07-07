@@ -1,8 +1,0 @@
-{
-	"name" : "WP Fix It",
-    "description" : "Long Description",
-    "shortDescription" : "Short Description",
-    "Likes" : "0",
-    "URL" : "https://www.wpfixit.com/",
-    "Labels" : ["Marketing"]
-}

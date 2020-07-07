@@ -1,8 +1,0 @@
-{
-	"name" : "Rocket Theme",
-    "description" : " ",
-    "shortDescription" : " ",
-    "Likes" : "0",
-    "URL" : "https://rockettheme.com/",
-    "Labels" : ["Marketing"]
-}

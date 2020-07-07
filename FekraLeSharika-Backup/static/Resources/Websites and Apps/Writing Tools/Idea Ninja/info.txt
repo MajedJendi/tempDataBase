@@ -1,8 +1,0 @@
-{
-	"name" : "Idea Ninja",
-    "description" : " ",
-    "shortDescription" : " ",
-    "Likes" : "0",
-    "URL" : "https://ideaninja.io/",
-    "Labels" : ["Marketing"]
-}

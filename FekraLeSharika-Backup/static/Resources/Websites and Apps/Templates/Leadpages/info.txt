@@ -1,8 +1,0 @@
-{
-	"name" : "Leadpages",
-    "description" : " ",
-    "shortDescription" : " ",
-    "Likes" : "0",
-    "URL" : "https://www.leadpages.net/",
-    "Labels" : ["Marketing"]
-}

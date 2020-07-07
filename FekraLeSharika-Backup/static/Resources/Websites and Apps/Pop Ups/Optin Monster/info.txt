@@ -1,8 +1,0 @@
-{
-	"name" : "Optin Monster",
-    "description" : "Long Description",
-    "shortDescription" : "Short Description",
-    "Likes" : "0",
-    "URL" : "https://optinmonster.com/",
-    "Labels" : ["Marketing"]
-}

@@ -1,8 +1,0 @@
-{
-	"name" : "Quuu Promote",
-    "description" : "This is the easiest and absolutely one of the most cost effective ways I’ve found to promote content. You submit your content, choose a category, and as long as it’s not too sales-y they usually approve it. It is then used to feed the content feeds of all the lovely folks using Quuu to fill their social media feeds with good stuff.",
-    "shortDescription" : "This is the easiest and absolutely one of the most cost effective…",
-    "Likes" : "20",
-    "URL" : "https://quuu.co/promote?via=joi",
-    "Labels" : ["Marketing"]
-}

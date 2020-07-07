@@ -1,8 +1,0 @@
-{
-	"name" : "Linkoo",
-    "description" : "Long Description",
-    "shortDescription" : "Short Description",
-    "Likes" : "0",
-    "URL" : "https://linkwoo.com/",
-    "Labels" : ["Marketing"]
-}

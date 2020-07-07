@@ -1,8 +1,0 @@
-{
-	"name" : "Pixelarity",
-    "description" : " ",
-    "shortDescription" : " ",
-    "Likes" : "0",
-    "URL" : "https://pixelarity.com/",
-    "Labels" : ["Marketing"]
-}

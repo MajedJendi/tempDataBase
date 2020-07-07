@@ -1,8 +1,0 @@
-{
-	"name" : "Pimpify",
-    "description" : "Going to a conference? Pompify creates custom displays for startups, companies, and organizations. Fast 48 hour production and free shipping",
-    "shortDescription" : "Going to a conference? Pompify creates custom displays for startups, companies, and…",
-    "Likes" : "15",
-    "URL" : "https://www.pompify.com",
-    "Labels" : ["Marketing"]
-}

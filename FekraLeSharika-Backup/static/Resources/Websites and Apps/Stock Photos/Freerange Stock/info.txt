@@ -1,8 +1,0 @@
-{
-	"name" : "Freerange Stock",
-    "description" : " ",
-    "shortDescription" : " ",
-    "Likes" : "0",
-    "URL" : "https://freerangestock.com/",
-    "Labels" : ["Marketing"]
-}

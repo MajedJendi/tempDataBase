@@ -1,8 +1,0 @@
-{
-	"name" : "Theme Forest",
-    "description" : " ",
-    "shortDescription" : " ",
-    "Likes" : "0",
-    "URL" : "https://themeforest.net/",
-    "Labels" : ["Marketing"]
-}
