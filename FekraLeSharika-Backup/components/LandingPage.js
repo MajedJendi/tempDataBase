@@ -8,7 +8,7 @@ import { makeStyles } from "@material-ui/core/styles";
 
 // core components
 import Header from "./Header.js";
-import Footer from "./Footer.js";
+import Footer from "./footer.js";
 import SectionPills from "./SectionPills";
 import GridContainer from "./GridContainer.js";
 import GridItem from "./GridItem.js";

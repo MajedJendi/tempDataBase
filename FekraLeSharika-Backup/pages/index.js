@@ -3,7 +3,7 @@ import '../styles/utility.scss'
 import Head from '../components/head'
 import Link from 'next/link'
 import LandingPage from "../components/LandingPage";
-import Resources from "../components/Resources";
+import Resources from "../components/resources.js";
 
 
 const Index = () => (
