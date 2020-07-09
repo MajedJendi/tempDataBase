@@ -121,7 +121,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\Button.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\Button.js";
  // nodejs library to set properties for components
 
  // nodejs library that concatenates classes
@@ -205,7 +205,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\Card.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\Card.js";
  // nodejs library that concatenates classes
 
  // nodejs library to set properties for components
@@ -273,7 +273,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\CardBody.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\CardBody.js";
  // nodejs library that concatenates classes
 
  // nodejs library to set properties for components
@@ -337,7 +337,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\CardHeader.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\CardHeader.js";
  // nodejs library that concatenates classes
 
  // nodejs library to set properties for components
@@ -422,7 +422,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\CustomDropdown.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\CustomDropdown.js";
  // nodejs library that concatenates classes
 
  // nodejs library to set properties for components
@@ -693,7 +693,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\CustomTabs.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\CustomTabs.js";
  // nodejs library that concatenates classes
 
  // nodejs library to set properties for components
@@ -850,7 +850,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_navbar_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_navbar_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\CustomerInteractionSubs.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\CustomerInteractionSubs.js";
 
 
 
@@ -1532,7 +1532,7 @@ var CustomerInteractionSubs = function CustomerInteractionSubs() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\Error.jsx";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\Error.jsx";
 
 
 var Error = function Error(_ref) {
@@ -1590,7 +1590,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_subCategories_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_subCategories_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\FinancialSubs.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\FinancialSubs.js";
 
 
 
@@ -2002,48 +2002,6 @@ var FinancialSubs = function FinancialSubs() {
 
 /***/ }),
 
-/***/ "./components/Footer.js":
-/*!******************************!*\
-  !*** ./components/Footer.js ***!
-  \******************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\Footer.js";
-
-
-var Footer = function Footer() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("footer", {
-    className: "footer",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 2
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "container has-text-centered",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 3
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4
-    },
-    __self: this
-  }, "Shadow Tours \xA9 2019.")));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (Footer);
-
-/***/ }),
-
 /***/ "./components/GridContainer.js":
 /*!*************************************!*\
   !*** ./components/GridContainer.js ***!
@@ -2066,7 +2024,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5__);
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\GridContainer.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\GridContainer.js";
  // nodejs library to set properties for components
 
  // @material-ui/core components
@@ -2131,7 +2089,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5__);
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\GridItem.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\GridItem.js";
  // nodejs library to set properties for components
 
  // @material-ui/core components
@@ -2214,7 +2172,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_material_kit_react_components_headerStyle_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../styles/material-kit-react/components/headerStyle.js */ "./styles/material-kit-react/components/headerStyle.js");
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\Header.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\Header.js";
  // nodejs library that concatenates classes
 
  // nodejs library to set properties for components
@@ -2432,7 +2390,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _CustomDropdown_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./CustomDropdown.js */ "./components/CustomDropdown.js");
 /* harmony import */ var _Button_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./Button.js */ "./components/Button.js");
 /* harmony import */ var _styles_material_kit_react_components_headerLinksStyle_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../styles/material-kit-react/components/headerLinksStyle.js */ "./styles/material-kit-react/components/headerLinksStyle.js");
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\HeaderLinks.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\HeaderLinks.js";
 
 /*eslint-disable*/
 
@@ -2634,7 +2592,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_subCategories_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_subCategories_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\IdeaValidationSubs.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\IdeaValidationSubs.js";
 
 
 
@@ -2998,7 +2956,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_navbar_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_navbar_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\ImageAndTractionGrowthSubs.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\ImageAndTractionGrowthSubs.js";
 
 
 
@@ -3946,7 +3904,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core/styles */ "@material-ui/core/styles");
 /* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _Header_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./Header.js */ "./components/Header.js");
-/* harmony import */ var _Footer_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./Footer.js */ "./components/Footer.js");
+/* harmony import */ var _footer_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./footer.js */ "./components/footer.js");
 /* harmony import */ var _SectionPills__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./SectionPills */ "./components/SectionPills.js");
 /* harmony import */ var _GridContainer_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./GridContainer.js */ "./components/GridContainer.js");
 /* harmony import */ var _GridItem_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./GridItem.js */ "./components/GridItem.js");
@@ -3957,7 +3915,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_SectionTabs__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../components/SectionTabs */ "./components/SectionTabs.js");
 /* harmony import */ var _components_hero__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../components/hero */ "./components/hero.js");
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\LandingPage.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\LandingPage.js";
  // nodejs library that concatenates classes
 
  // @material-ui/core components
@@ -4241,7 +4199,7 @@ function LandingPage(props) {
       lineNumber: 118
     },
     __self: this
-  }))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Footer_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  }))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_footer_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 121
@@ -4284,7 +4242,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\Parallax.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\Parallax.js";
  // nodejs library that concatenates classes
 
  // nodejs library to set properties for components
@@ -4361,95 +4319,6 @@ Parallax.propTypes = {
 
 /***/ }),
 
-/***/ "./components/Resources.js":
-/*!*********************************!*\
-  !*** ./components/Resources.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _styles_resources_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/resources.scss */ "./styles/resources.scss");
-/* harmony import */ var _styles_resources_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_resources_scss__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _singleResource__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./singleResource */ "./components/singleResource.js");
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\Resources.js";
-
-
-
-
-
-var Resources = function Resources() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "container",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "columns is-centered",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "column is-four-fifths",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "tile is-ancestor",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_singleResource__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_singleResource__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_singleResource__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "tile is-ancestor",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_singleResource__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
-  })))));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (Resources);
-
-/***/ }),
-
 /***/ "./components/SectionPills.js":
 /*!************************************!*\
   !*** ./components/SectionPills.js ***!
@@ -4477,7 +4346,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _FinancialSubs__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./FinancialSubs */ "./components/FinancialSubs.js");
 /* harmony import */ var _expBar__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./expBar */ "./components/expBar.js");
 /* harmony import */ var _ImageAndTractionGrowthSubs__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./ImageAndTractionGrowthSubs */ "./components/ImageAndTractionGrowthSubs.js");
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\SectionPills.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\SectionPills.js";
  // @material-ui/core components
 
  // @material-ui/icons
@@ -4871,7 +4740,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_icons_DoneAll__WEBPACK_IMPORTED_MODULE_19___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_DoneAll__WEBPACK_IMPORTED_MODULE_19__);
 /* harmony import */ var _material_ui_icons_ThumbsUpDown__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! @material-ui/icons/ThumbsUpDown */ "@material-ui/icons/ThumbsUpDown");
 /* harmony import */ var _material_ui_icons_ThumbsUpDown__WEBPACK_IMPORTED_MODULE_20___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_ThumbsUpDown__WEBPACK_IMPORTED_MODULE_20__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\SectionTabs.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\SectionTabs.js";
  // @material-ui/core components
 
  // @material-ui/icons
@@ -5037,7 +4906,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_navbar_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_navbar_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\WebsitesAndAppsSubs.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\WebsitesAndAppsSubs.js";
 
 
 
@@ -6045,7 +5914,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_subCategories_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_subCategories_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\WorkflowSubs.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\WorkflowSubs.js";
 
 
 
@@ -6301,7 +6170,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_navbar_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_navbar_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\expBar.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\expBar.js";
 
 
 
@@ -6707,6 +6576,48 @@ var ExpBar = function ExpBar() {
 
 /***/ }),
 
+/***/ "./components/footer.js":
+/*!******************************!*\
+  !*** ./components/footer.js ***!
+  \******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\footer.js";
+
+
+var Footer = function Footer() {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("footer", {
+    className: "footer",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 2
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container has-text-centered",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: this
+  }, "Shadow Tours \xA9 2019.")));
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (Footer);
+
+/***/ }),
+
 /***/ "./components/guideMe.js":
 /*!*******************************!*\
   !*** ./components/guideMe.js ***!
@@ -6722,7 +6633,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_guideMe_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_guideMe_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\guideMe.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\guideMe.js";
 
 
 
@@ -7043,7 +6954,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\head.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\head.js";
 
 
 
@@ -7156,7 +7067,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_hero_right_box_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_hero_right_box_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\hero-right-box.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\hero-right-box.js";
 
 
 
@@ -7259,7 +7170,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _searchBar__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./searchBar */ "./components/searchBar.js");
 /* harmony import */ var _hero_right_box__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./hero-right-box */ "./components/hero-right-box.js");
 /* harmony import */ var _guideMe__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./guideMe */ "./components/guideMe.js");
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\hero.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\hero.js";
 
 
 
@@ -7373,7 +7284,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\heroImg.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\heroImg.js";
 
 
 
@@ -7461,7 +7372,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_navbar_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_navbar_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\navbar.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\navbar.js";
 
 
 
@@ -7737,7 +7648,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\navigationPills.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\navigationPills.js";
  // nodejs library that concatenates classes
 
  // nodejs library to set properties for components
@@ -7900,6 +7811,95 @@ NavPills.propTypes = {
 
 /***/ }),
 
+/***/ "./components/resources.js":
+/*!*********************************!*\
+  !*** ./components/resources.js ***!
+  \*********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _styles_resources_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/resources.scss */ "./styles/resources.scss");
+/* harmony import */ var _styles_resources_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_resources_scss__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _singleResource__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./singleResource */ "./components/singleResource.js");
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\resources.js";
+
+
+
+
+
+var Resources = function Resources() {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "columns is-centered",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "column is-four-fifths",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "tile is-ancestor",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_singleResource__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_singleResource__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_singleResource__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "tile is-ancestor",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_singleResource__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20
+    },
+    __self: this
+  })))));
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (Resources);
+
+/***/ }),
+
 /***/ "./components/searchBar.js":
 /*!*********************************!*\
   !*** ./components/searchBar.js ***!
@@ -7931,7 +7931,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\searchBar.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\searchBar.js";
 
 
 
@@ -8184,7 +8184,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\components\\singleResource.js";
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\components\\singleResource.js";
 
 
 
@@ -9508,8 +9508,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _components_LandingPage__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/LandingPage */ "./components/LandingPage.js");
-/* harmony import */ var _components_Resources__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Resources */ "./components/Resources.js");
-var _jsxFileName = "C:\\Users\\majed\\eclipse-workspace\\FekraLeSharika-Backup\\pages\\index.js";
+/* harmony import */ var _components_resources_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/resources.js */ "./components/resources.js");
+var _jsxFileName = "C:\\Users\\majed\\Documents\\GitHub\\tempDataBase\\FekraLeSharika-Backup\\pages\\index.js";
 
 
 
@@ -11099,7 +11099,7 @@ var landingPageStyle = {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\majed\eclipse-workspace\FekraLeSharika-Backup\pages\index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! C:\Users\majed\Documents\GitHub\tempDataBase\FekraLeSharika-Backup\pages\index.js */"./pages/index.js");
 
 
 /***/ }),

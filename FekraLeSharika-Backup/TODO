@@ -52,3 +52,5 @@ Questions to Sami:
 		
 
 Notes:
+
+Add .ignore, specifically add node_modules so you wont have to wait them everytime you push code
